@@ -4,6 +4,7 @@ excerpt_separator: "<!--more-->"
 header:
   overlay_image: /assets/images/header.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  show_overlay_excerpt: false
 categories:
   - Science-Fiction
 tags:
