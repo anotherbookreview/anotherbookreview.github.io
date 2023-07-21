@@ -2,7 +2,8 @@
 title: "Translation State Review"
 excerpt_separator: "<!--more-->"
 header:
-  image: /assets/images/header-image.jpg
+  overlay_image: /assets/images/header.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - Science-Fiction
 tags:
