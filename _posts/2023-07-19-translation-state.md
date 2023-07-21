@@ -10,6 +10,7 @@ tags:
 ![book-cover](/assets/images/translation-state.jpeg){: .align-left} Translation State by Ann Leckie is standalone novel in her popular Imperial Radch universe setting. I'm definitely in the minority here, as I had to quit at around 80% in. I don't believe I've ever quit on a book that far in, but everything just got so tedious to read, especially the characters, that I just couldn't stomach it. Furthermore, I didn't care if the characters merged or not or whether they all get blown into space never to be seen again. The whole use of the pronouns is already irritating, but at least I understand the use for it in such a universe with so many range of species. The purposely misspelled pronouns used, however, is ridiculous, unnecessary and makes everything that much harder to read along and follow. WHY must you do this?!?! It serves absolutely no purpose whatsoever and adds nothing of value or emotion to the story.
 
 > This is a single line block quote. - Mark Twain
+
 <cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
 {: .small}
 
