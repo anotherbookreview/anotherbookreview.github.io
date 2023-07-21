@@ -1,6 +1,7 @@
 ---
 title: "Translation State Review"
 excerpt_separator: "<!--more-->"
+classes: wide
 categories:
   - Science-Fiction
 tags:
