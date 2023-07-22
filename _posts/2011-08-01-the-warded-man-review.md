@@ -1,6 +1,9 @@
 ---
 title: "The Warded Man Review"
 excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(187, 55, 32, 1), rgba(255, 199, 133, 1))
 categories:
   - Fantasy
 
