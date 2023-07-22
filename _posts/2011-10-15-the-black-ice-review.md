@@ -1,0 +1,17 @@
+---
+title: "The Black Ice Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(241, 200, 7, 1), rgba(16, 17, 19, 1))
+  show_overlay_excerpt: false
+categories:
+  - Crime
+---
+![black-ice-cover](/assets/images/black-ice.jpg){: .align-left}The Black Ice by Michael Connelly is the second book in the Harry Bosch series. After being blown away with the introduction of cop detective Harry Bosch in The Black Echo, I just can’t help but feel that the author is experiencing the “sophomore slump”. The story in The Black Ice screams mediocre and it does the reader no good when the author writes at such a snail pace. There is literally nothing going action wise even when you’re 3/4 into the book. The end does get a bit intense but by that time, you’re probably too exhausted to care anymore about what happens and just wish the story would end. That is never good for any book when you just want it to end so bad. At the core, The Black Ice is another classic whodunnit mystery but something just felt missing here. It seems as if you don’t care for the characters at all and that even at times apply to our main detective, Harry Bosch.
+
+I really wanted to like this book but I’m not going to lie to myself. Although I don’t hate it particularly, this book makes me not want to continue reading another Harry Bosch novel for a long time. While the story itself is pretty easy to follow, it just feels stagnant and again, I blame this toward the slow pace of the book. As for the characters, there’s not much to go on here. If you’ve been introduced to Harry Bosch already, then you’ll be glad to know that he’s more or less the same person and that’s a good thing. However, I would really hate it if the author continues to pit him together romantically with a new female character in every book. The author spends time reminding us of how meek and lonely his life is but with him getting to bed 2-3 women every book, I somehow don’t believe that picture anymore. Obviously I want him to be happy but it’s going to get pretty irritating if he’s going to be one of those dude who can’t help but be attracted to every victim’s wife or girlfriend.
+
+With the book moving at such a slow pace, many a times I wondered if it would have been better if the author wrote in another characters point of view rather than just focusing on Bosch the entire book. I mean let’s face it. Bosch is definitely a likable character but he’s hardly the most exciting to read about. Reading The Black Ice felt just like Bosch getting hints and clues throughout the most part of the boook and then BAM! The author finally throws in the action sequences and the book ends. It also doesn’t help the book that it has the typical cliche ending.
+
+All in all, I felt disappointed with reading The Black Ice. After coming off with such a great introductory book, this sophomore effort just fell short. It’s not memorable in any way, had characters you didn’t care about, sparse action sequences and a ending that was not worth all the reading you’ve done to get to that point. I definitely don’t feel like this book was a page turner and can’t really imagine how anyone could say that of this book. I’m sorry but unless you have a syndrome like me who have the need to read every book in a series chronologically, I definitely would advise you to skip this one and move on to the next. I doubt you’ll be missing much.
