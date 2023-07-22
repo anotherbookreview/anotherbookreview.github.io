@@ -6,7 +6,7 @@ header:
   overlay_filter: linear-gradient(rgba(154, 163, 74, 1), rgba(4, 3, 1, 1))
   show_overlay_excerpt: false
 categories:
-  - Suspense-Thriller
+  - Mystery
 
 ---
 ![late-rain-cover](/assets/images/late-rain.jpg){: .align-left}It’s hard to review Late Rain by Lynn Kostoff. On Amazon and various other online review sites, I’ve read a lot of praises for both the author and the book. Yet upon completion, I’m left wondering if something is horribly wrong with me because I did not find the book that compelling. Here is a very brief description of the book:

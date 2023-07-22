@@ -6,7 +6,7 @@ header:
   overlay_filter: linear-gradient(rgba(28, 59, 85, 1), rgba(254, 170, 17, 1))
   show_overlay_excerpt: false
 categories:
-  - Suspense-Thriller
+  - Fantasy
 
 ---
 ![warbreaker-cover](/assets/images/warbreaker.jpg){: .align-left}As a person who reads a lot of fantasy books, I feel the need to get down on my knees and worship Brandon Sanderson. The guy is just that good at storytelling. Brandon Sanderson’s Warbreaker is a stand-alone fantasy book that has a captivating storyline and characters you will no doubt come to like. That’s two elements needed for a good book and its fulfilled here in Warbreaker. However, there were still many things that disappointed me with this book.
