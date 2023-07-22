@@ -1,0 +1,21 @@
+---
+title: "The Warded Man Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/warded-man.jpg
+  caption: "Photo credit: [**Unsplash**](https://pexels.com)"
+  show_overlay_excerpt: false
+categories:
+  - Fantasy
+
+---
+How would you like it if every night you had to cower inside your houses because demons roam free in the world? It would suck wouldn’t it. And yet that’s the world the people live in within The Warded Man (TWM), the first in the Demon Cycle trilogy by Peter V. Brett. Mankind and demons have fought for centuries past. Humans have stood together strong to drive the demons away and everything looked to be in good order. However, as tales would go by, mankind started to turn against one another after the demon war. Long forgotten were the magics of the old and in came science technology. People got lazier and became victims to lust and greed. Rather than fighting demons together, they were now fighting one another. However, as time moved forward, the demons have reemerged from their hiding places to once again ravage the land and cause misery to humankind.
+
+I found TWM, although very predictable and simple, a enjoyable read nonetheless. The story involves your typical main characters spread out throughout the world doing their own thing with their own personal story to tell only to meet up with one another at some point. It’s definitely cliche but it works. In TWM, you have three of these main characters: Arlen, Rojer and Leesha. Arlen in my opinion, can be considered the main character of the the three. In the world of TWM, demons rise and take form in the night to hunt for human flesh. To protect themselves, humans can create special wards around their houses and even entire cities to repel the demons back. People who create such wards are called Warders and Arlen fills that role. Rojer is a Jonguleur, which equals to about a clown/entertainer. Jonguleurs usually perform from village to village earning a decent living. Since many people rarely leave their home village, any type of entertainment from a Jonguleur is welcomed. Leesha is a Herb Gatherer, better known as a doctor in our modern terms. In many villages, there is usually a herb gatherer and their apprentices to tend to the sick. Throughout the majority of the book, you’ll learn a great deal about each character’s background and story individually.
+
+The world of TWM is fairly interesting. People get to basically do whatever they want to during the day but once the sun sets, they must hide behind warded structures or else be “cored” by the demons. There are many types of demons that each possess a unique ability of their own. The demons return back to the Core once the sun rises again the next day or be destroyed by it. If you’re behind a well written ward, the demons will not be able to pass through it no matter how hard they try. This makes the humans take a more defensive stance against the demons rather than an offensive one. Demons are stronger and bigger than most humans and very hard to kill. Even if they manage to kill one or two, many others will replace them. The pretense of the story is that the people are waiting for the person they call the Deliverer to once again lead the humans and take the fight to the demons and drive them away like in the days of the old.
+
+Fight scenes are fun and evenly paced throughout the book. The author writes in a simple way that just about any reader can understand. Sometimes I actually dread reading fight scenes in a book because the author tries to complicate things too much. It may sound weird but sometimes too much detail is not good. There’s nothing complicated about TWM. At times, it actually feels like I’m reading a fairy tale book. It’s not necessarily a bad thing but if you’re looking for a fantasy series with rich and lusciously detailed environments, you’ll not get it here. Not only that but the world of the TWM is fairly small.
+
+TWM I believe is a pretty good introduction to a series. However, the ending doesn’t necessarily make me beg for more. The entire book takes you from point A to point B to point C, etc. Rarely do you go off the track. It’s definitely a good read but readers who desire more in a fantasy series need be wary.
+
