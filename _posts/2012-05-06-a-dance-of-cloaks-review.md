@@ -1,0 +1,17 @@
+---
+title: "A Dance of Cloaks Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(198, 69, 66, 1), rgba(36, 36, 36, 1))
+  show_overlay_excerpt: false
+categories:
+  - Fantasy
+---
+![dance-of-cloaks-cover](/assets/images/dance-of-cloaks.jpg){: .align-left}A Dance of Cloaks by David Dalglish is a fantasy book about thieves and assassins and is the first of the Shadow Dance trilogy. Boy, is this book an underrated gem! It’s got a little bit of everything I could ask for in a fantasy book. Make no mistake about it that A Dance of Cloaks is a dark story and with that you’ll get a whole bunch of violence and a whole lot of blood and gore. What made this book so enjoyable for me is due to its fast pace. From the very beginning, the book grabs a hold of you and never lets go till the end. The story itself isn’t that much unique in my opinion compared to other darker fantasy setting series but nevertheless, it was still a very satisfying read and I’m definitely going to see this series till the end. The author is more known for his “Half-Orcs”series and so that’s another thing I will keep in mind for the future.
+
+The main story within A Dance of Cloaks involves the thieves guild against the rich members of the Trifect. A bloody war has been raging for some time and both sides have been taking heavy losses. However, the leader of the Spider Guild and one of the most feared underground assassin in the city, Thren Felhorn, has finally run of patience and plans on taking down the Trifect once and for all with a daring plan. Another major character involves Thren’s son, Aaron, whom the former is grooming to be his successor. However, while Aaron is very obedient to his father, things start to take a different turn once he’s assigned a special mission. There’s not a lot of humor in this book although I thought that the combination of Senke and Will both had potential to lighten up the mood but to my disappointment, the author didn’t do this. With A Dance of Cloaks, its not really easy to see who are the bad guys and who are the good. That’s what a dark fantasy book should be, in my opinion. Characters can die at any moment.
+
+Intrigue, mysteries, back stabbing and a whole lot more comprises of A Dance of Cloaks. I thought the author wrote very well. The plot flowed very smoothly from chapter to chapter and I hardly found myself bored with the events that take place. Fight scenes were well done for the most part and quite easy to follow along with. There is magic in the world but they are not widely used and is not the main focal point. For the most part, battles and fight scenes go traditional “old school” and fighters duke it out with swords, daggers, maces, shields and crossbows.
+
+After reading A Dance of Cloaks, I can congratulate myself on picking up the right book to read. I had my doubts in the beginning but it didn’t take long to realize that this was going to be a hidden gem. After reading this book, I’m next deciding on whether I should continue with the second book in the series or starting the Half-Orc series. Whatever the case, if you’re a fan of fantasy and especially with the intrigue of assassins and murderers, A Dance of Cloaks should be a good pickup. If you find yourself liking the book/series, then you’ll also be glad that the author has put in other works as well of similar nature.
