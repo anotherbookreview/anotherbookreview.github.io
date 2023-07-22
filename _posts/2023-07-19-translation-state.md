@@ -2,7 +2,7 @@
 title: "Translation State Review"
 excerpt_separator: "<!--more-->"
 header:
-  overlay_color: "#23B499"
+  overlay_filter: linear-gradient(rgba(230, 31, 42, 0.5), rgba(15, 176, 145, 0.5))
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   show_overlay_excerpt: false
 categories:
