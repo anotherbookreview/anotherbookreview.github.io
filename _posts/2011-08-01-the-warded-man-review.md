@@ -2,7 +2,7 @@
 title: "The Warded Man Review"
 excerpt_separator: "<!--more-->"
 header:
-  overlay_color: "#333"
+  overlay_color: "#C23E23"
   caption: "Photo credit: [**Pexels**](https://pexels.com)"
   show_overlay_excerpt: false
 categories:
