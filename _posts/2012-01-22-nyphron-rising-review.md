@@ -1,0 +1,22 @@
+---
+title: "Nyphron Rising Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(62, 111, 51, 1), rgba(245, 255, 230, 1))
+  show_overlay_excerpt: false
+categories:
+  - Fantasy
+---
+![nyphron-rising-cover](/assets/images/nyphron-rising.jpg){: .align-left}Nyphron Rising by Michael Sullivan is the third book in the Riyria Revelation series. In the last book, Avempartha, I was annoyed at Arista as a character and how the author portrayed her as weak and uninteresting. Here, the author spends a lot of effort trying to build a better relationship between Arista and the readers. The action takes a back seat for the majority of the book and instead we are more focused on the political intrigues of the series. It’s as if the author knew of my complaints from his earlier books and corrected them in the next. Earlier I complained about how he did Arista wrong by making her unlikable and boring. This was corrected here. I then complained about how he should start building the political uprising issue that has been hinted about in previous books and once again, the author does that here. Being the third and middle book in the series, the author has no intention of letting you off the hook. You just can’t help but keep reading on!
+
+“War has come to Melengar. To save her kingdom, Princess Arista runs a desperate gamble when she defies her brother and hires Royce and Hadrian for a dangerous mission. As the power of the Nyphron Empire grows, so does Royce’s suspicion that the wizard Esrahaddon is using the thieves as pawns in his own game. To find the truth, he must unravel the secret of Hadrian’s past–what he discovers may end their friendship and break Riyria in two.”
+
+While Royce and Hadrian continue to be the two main protagonist in the story, the main focus of Nyphron Rising is with Arista and to some extent, Thrace a.k.a. Empress Modina. While I didn’t particularly like the latter character in Avempartha, this book doesn’t really help me shake that feeling. Being used as a puppet by Sulder and the likes, Empress Modina seems to have a problem of not being able to focus and has troubles with her speech ever since she slayed that beast in Dahlgreen. Suldur summons Amilia to help with her problems and that’s pretty much it as far as she’s concerned. With Arista, I have to admit she is much more likable after reading Nyphron Rising. She was utterly boring in Avempartha but here, she gets more exciting and that’s because she spends most of her time with Royce and Hadrian by her side. As a pampered princess, she finally gets a first-hand look at how normal people live their lives and the hardships they have to face on a daily basis. Similar to many other pampered characters in other stories, the readers will feel a bit more attached to them if they can get a bit of humbleness in them. It also helps to make her be able to case magic spells!
+
+One of the main goals in the story is still for the group to find the long lost heir. With three books so far in, I can get a sense of the bigger goals each character must face. However, I’m still not sure what Royce’s higher calling is in this series. We find out he’s part elf in the last book but there is hardly a follow-up here in Nyphron Rising. I’m absolutely positive the author will address this issue in the next book. The battle between the Nationalists and the Imperial army does help to advance the main storyline and things do get interesting during the later half of the book. As usual, Esrahaddon does make a brief appearance in the book and it’s still unclear what his true motives are. With Nyphron Rising, the book deals with character building first and foremost. I’m sure some people will have a problem with this but I think it worked out pretty well. I really wanted to give this series a short break to read another book but the ending sure makes it hard for me to do so!
+
+I have a good feeling that things are going to pick up dramatically in the final three books of the series. I feel that enough ground work has been laid by the author and its time for him to really reap the rewards by going full steam ahead with the story!
+
+The Riyria Revelation series is actually re-packaged into three books, with each book consisting of two books in the series. Nyphron Rising is actually now called Rise of Empire, which includes this book along with the next book in the series, The Emerald Storm.
+{: .notice--info}
