@@ -6,7 +6,7 @@ header:
   overlay_filter: linear-gradient(rgba(250, 233, 187, 1), rgba(20, 22, 21, 1))
   show_overlay_excerpt: false
 categories:
-  - Fantasy
+  - Dark-Fantasy
 ---
 ![the-gunslinger-cover](/assets/images/the-gunslinger.jpg){: .align-left}The Gunslinger by Stephen King is the first book of his popular Dark Tower series. I believe at the moment there is a total of eight books that contribute to the series. To make it clear, I am not a Stephen King fan. I have read some of his books and for most of them, I found myself not liking more of them than the opposite. I’ve always wanted to give The Dark Tower series a go simply because of the brilliant things I have heard. The Gunslinger is the introduction to the series and gives us readers a chance to get our feet wet. At only 280 pages long, it’s perfect for the introductory type books. Not too short but not absurdly long. The problem I have with the book is well, how boring it all is. I definitely expected something more grand, especially due to this being an introduction and as an author, you’ll want to capture your audiences attention for the future books to come in the series. The Gunslinger is definitely anything but grand and in a way very disappointing.
 
