@@ -1,0 +1,25 @@
+---
+title: "The Accident Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(129, 172, 53, 1), rgba(216, 152, 40, 1))
+  show_overlay_excerpt: false
+categories:
+  - Suspense-Thriller
+  - Mystery
+
+---
+![the-accident-cover](/assets/images/the-accident.jpg){: .align-left}I’m no stranger to Linwood Barclay having read both Fear the Worst and Never Look Away. Both were fantastic mystery thrillers that had me on the edge of my seat. The Accident is Linwood’s latest release and he continues the tradition of writing awesome thrillers. Linwood is a master of writing a story about a perfectly normal individual and then turning their life completely upside down in a matter of chapters. This is yet again no different in The Accident. While reading the many mystery books out there, one question that you just can’t help but ask yourself every time is “Can this also happen to me as well?” When you’re reading The Accident, I can pretty much guarantee you that you’ll be asking that question before the book is done.
+
+“It’s the new normal at the Garber household in Connecticut: Glen, a contractor, has seen his business shaken by the housing crisis, and now his wife, Sheila, is taking a business course at night to increase her chances of landing a good-paying job. But she should have been home by now. Waiting for Sheila’s return, with their eight-year-old daughter sleeping soundly, Glen soon finds his worst fears confirmed: Sheila and two others have been killed in a car accident. Adding to the tragedy, the police claim Sheila was responsible. Glen knows it’s impossible; he knew his wife and she would never do such a thing. When he investigates, Glen begins to uncover layers of lawlessness beneath the placid surface of their suburb, secret after dangerous secret behind the closed doors.”
+
+The Accident takes place in our present time and makes full light of our economic troubles. Because the economy is struggling, many people find themselves in financial turmoil and jobs are getting harder and harder to land. In The Accident, a couple of wives in a close community gets together and decides to do a little side business in hopes of helping their family pull it together in these rough times. Little did they know that side business would turn ugly and come crashing down on them. Like I said, this is a very realistic situation the book paints for us and I’m sure it’s going on right now all over the world even as you read this.
+
+The story itself is compelling enough to keep you interested till the very end. When Glen’s wife died in a mysterious car accident, he initially puts the blame on her. Slowly though, he refuses to accept things as is and decides to do a little investigation himself. One problem soon follows another and soon enough, everything just spirals downhill. The story is told through many characters viewpoint but once it shifts over to Glen, the story is told via a first person view. Glen is what you would call your average law-abiding citizen. He has a beautiful 8-year old daughter, a loving wife, and his own construction company left over by his deceased father. While they are struggling in the difficult economy, they do enough to take care of their own. That’s pretty much it about him. You definitely get that he’s a good guy and tend to root for him in the book but there’s not much else going on for him. But then again, many of the protagonist in the author’s previous work are also of similar qualities.
+
+It’s very clear in the beginning of the book that it will be dealing with illegal and knock-off merchandise. The one little thing I was disappointed about with The Accident is that not enough was being written on this subject matter! This is purely my opinion of course but it would have been great if the author gave us some insider look (maybe via the main villain, for example) into how the underground world of counterfeit production looks and behaves like. How is everything organized? Who controls what? How does the merchandise slip into the states? Instead of all that, all we get is a debt collector of some sort who has no personality whatsoever (being violent doesn’t count) as one of the main villain. There is one interesting conversation that took place between a detective and Glen that gave some of these details but that was it and it left me wanting more.
+
+Overall though, The Accident was a good read. What makes many of Linwood Barclay’s novels a joy to read is that although there is hardly any action taking place, he manages to set a very quick pace. Although there will always be grief, you rarely see the main character just sulking and doing nothing at all. Glen in the story is always doing something and talking with people either in person or on the phone. This keeps the story moving along and prevents it from giving you the feeling of it being dragged on and on.
+
+Great job Mr. Barclay! You’ve done it once again!
