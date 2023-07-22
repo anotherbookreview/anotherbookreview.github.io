@@ -2,7 +2,7 @@
 title: "Translation State Review"
 excerpt_separator: "<!--more-->"
 header:
-  overlay_image: /assets/images/header.jpg
+  overlay_color: "#23B499"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   show_overlay_excerpt: false
 categories:
