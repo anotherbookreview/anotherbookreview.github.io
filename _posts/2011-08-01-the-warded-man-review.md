@@ -1,11 +1,6 @@
 ---
 title: "The Warded Man Review"
 excerpt_separator: "<!--more-->"
-header:
-  overlay_image: /assets/images/the-warded-man-heade.jpg
-  overlay_filter: linear-gradient(rgba(187, 55, 32, 1), rgba(255, 199, 133, 1))
-  caption: "Photo credit: [**Pexels**](https://pexels.com)"
-  show_overlay_excerpt: false
 categories:
   - Fantasy
 
