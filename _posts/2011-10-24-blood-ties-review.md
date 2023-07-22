@@ -1,5 +1,5 @@
 ---
-title: "Blood Ties"
+title: "Blood Ties Review"
 excerpt_separator: "<!--more-->"
 header:
   overlay_image: /assets/images/none.jpg
