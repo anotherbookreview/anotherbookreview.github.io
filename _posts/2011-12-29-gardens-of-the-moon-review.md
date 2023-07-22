@@ -10,7 +10,8 @@ categories:
 ---
 ![gardens-of-the-moon-cover](/assets/images/gardens-of-the-moon.jpg){: .align-left}Gardens of the Moon by Steven Erikson is the first in a 10 book series. Prior to reading this book, the only knowledge I had about it was that it had glowing reviews. I had no idea what the book was about or even who the author is. I did not read any of the reviews because usually there will be some spoilers contained in them. Because this is a fantasy series, I thought to give it a chance and dive headlong into the series without any expectation whatsoever in hopes to just let the book work its magic and do its thing. Not only did that not happen at all but I believe Gardens of the Moon is one of the fastest book I have given up on. There is just nothing at all throughout my reading of this book that wants me to continue the adventure. There are many things wrong with this book in my opinion and while some can argue that it will only get better as the series progresses, I just don’t have the time, energy and patience for it when I can choose from so many other books to divulge in.
 
-**WARNING:** I’ve only managed to complete around 40% of the book before giving up. Continuing on would have been a hazard to my own health and sanity.{: .notice--danger}
+**WARNING:** I’ve only managed to complete around 40% of the book before giving up. Continuing on would have been a hazard to my own health and sanity.
+{: .notice--danger}
 
 First off, there are generally about three major concepts to having a good book, at least in my eyes. I’m no famous author by any means but as a avid fantasy book reader, there are just some things I experience whenever reading a good book no matter who written it. These concepts include:
 
