@@ -1,0 +1,17 @@
+---
+title: "Elantris"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(58, 66, 46, 1), rgba(210, 218, 172, 1))
+  show_overlay_excerpt: false
+categories:
+  - Fantasy
+---
+![elantris-cover](/assets/images/elantris.jpg){: .align-left}Elantris by Brandon Sanderson is the sixth fantasy book I’ve read from this author and never once has he disappointed me. Well, he’s not about to start with Elantris. This guy just has a gift to create beautiful fantasy worlds but not only that, he knows how to tell a damn good story to go alongside with it! Elantris tells the story of a capital city once inhibited by strange beings called the Elantrians that could call forth mysterious powers. The awesome part is that random people could become these so called “Gods”. Well, that was ten years ago and since then an awful event shook Elantris to its core and the “magic” disappeared all the while leaving the Elantrians a pitiful wreck. While I thoroughly enjoyed reading Elantris, I’ve been spoiled by Brandon’s more recent works such as the Mistborn trilogy and The Way of Kings and felt that Elantris doesn’t quite measure up to those masterpieces. Nonetheless, Elantris is a solid stand-alone fantasy book.
+
+Story wise, Elantris is quite interesting. There’s not a whole lot of action in the book save for the end but the intrigue is still there. The book has three main characters in Raoden, Sarene and Hrathen. The author takes turn writing each character’s perspective in each chapter. So chapter 1 would be dedicated to Raoden, chapter 2 would be for Sarene, chapter 3 would be Hrathen, chapter 4 would be Raoden, and so on. Eventually, the characters cross path with one another and the real fun begins. The Elantris story is mainly one of politics as Sarene and her companions try to find ways to oust gyorn Hrathen from converting the city of Kae to the Shu-Dereth religion. All the while, Raoden is stuck in the city of Elantris trying to make sense of what went wrong with the once great capitol. Hrathen mean while, tries his best to convert Kae into believing in Shu-Dereth before it will be too late for the city. Basically, there’s a lot of plotting and trickery involved.
+
+The cast of characters is interesting to say the least. Supporting characters like Galladon, Kiin, Roial, Eondel, Shuden and Dilaf all chip in to make the story more exciting and keeps the story from getting too bland. Raoden is your main protagonist and does a very good job in making you root for him and his cause. However, I just wished that he interacted more with the citizens of Elantris than just Galladon. In the beginning, this did happen often but later on, it’s if Galladon and Raoden were the only citizens left in the ruined capital. Sarene is the typical witty princess that I’m sure everyone will fall in love with. Dialogue between her and Seon Ashe can be downright hilarious at times. At first I thought Hrathen to be the typical zealot. Slowly but surely, you see a deeper side to him and you’ll wrestle with yourself deciding whether or not what he’s doing is right or wrong.
+
+In the end, I don’t believe Elantris is Brandon Sanderson’s best work but even then, it’s still a fantastic read. I was a little disappointed in the ending mainly because not much was said about the Elantrians and Elantris itself. I wouldn’t count this as a “rushed” ending but more closure would have been excellent provided this is a stand alone story.
