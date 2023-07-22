@@ -2,6 +2,7 @@
 title: "Translation State Review"
 excerpt_separator: "<!--more-->"
 header:
+  overlay_image: /assets/images/translation-state.jpg
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   show_overlay_excerpt: false
