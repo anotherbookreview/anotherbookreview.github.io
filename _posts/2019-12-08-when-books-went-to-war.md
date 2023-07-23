@@ -1,0 +1,17 @@
+---
+title: "When Books Went to War Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(133, 82, 69, 1), rgba(119, 110, 88, 1))
+  show_overlay_excerpt: false
+categories:
+  - Non-Fiction
+---
+![books-went-war-cover](/assets/images/books-went-war.jpg){: .align-left}When Books Went to War by Molly Manning is a very special story that I don’t ever recalling during my limited research of World War II. Like many other casual readers and researchers, I was mainly attracted to the war tactics and events of WWII along with how Adolf Hitler came into power but I failed to regard the psychological and emotional trauma that the actual soldiers fighting the war had to endure. Least of all, I wouldn’t have thought that books could have provided so much relief to the brave soldiers in their most desperate time of need. I’m not sure why I should be so shocked myself being that I’m an avid book reader and can attest to how reading can be therapeutical. I guess it was hard for me to fathom how soldiers could find the time for such leisures knowing that their lives could be ended at any moment during the war. Reading this book completely changed my thinking on this.
+
+In a way I’m so happy that during humanity’s greatest time of need that many decent people from around the country stepped up their effort to help fight the war and contributed in their own way. Donating books honestly doesn’t seem like the most interesting thing to write about and I am positive that many donators during that period had no idea the impact their simple donation would make on the soldiers. The efforts made by librarians across the country to coordinate such an event also could not be understated. It was really special to read what some of the soldiers have written back on how helpful the donated books helped them during their time spent fighting the war away from home.
+
+If I’m honest about it, I would probably be in the same position as the soldiers. Sure, we have computers and video game consoles to help pass the time if I was ever drafted today but there’s just nothing that can compare to holding and reading a good ol’ paperback book to help pass the time. Although it was very depressing to have recognized that some of these soldiers only had the time to read their books while simultaneously being under strong enemy attack, I hope that they found some solace in knowing that their fellow family and friends back home are helping them in whatever way they can.
+
+All in all When Books Went to War can be considered a good read either for general book lovers as well as more advanced researchers who wants to learn everything they can about WWII other than what is generally known. Hitler knew that in order to win the war, he had to rely on more than just gun power and military tactics. He needed a way to subdue and brainwash his people. The US tried to do the complete opposite and allowed its people to fight back by arming them with knowledge instead. One side choose to burn books while the other choose to save them. It is frightening to imagine what could have happened and the actual outcome of the war if steps were not taken at home to fight back on this front.
