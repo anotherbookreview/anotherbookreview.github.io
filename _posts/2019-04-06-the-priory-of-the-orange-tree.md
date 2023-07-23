@@ -1,0 +1,17 @@
+---
+title: "The Priory of the Orange Tree Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(30, 60, 92, 1), rgba(243, 150, 30, 1))
+  show_overlay_excerpt: false
+categories:
+  - Fantasy
+---
+![priory-orange-tree-cover](/assets/images/priory-orange-treejpg){: .align-left}The Priory of the Orange Tree by Samantha Shannon is an fantasy epic novel that has pretty much everything you’d expect. Things like dragons, pirates, princess and princes, assassins, betrayal, magic fights, world traveling etc. Oh and did I mention a really good looking book cover?! At 800 something pages, this is not your average kiddie’s book. What I will say is this. The author can definitely write! However, I was disappointed to learn that this novel did what I never, ever wanted to see in any story. It’s unfortunate because I thought the author could have taken it to a whole new level but as that dreaded feeling slowly crept in as I read further and further along, I knew it wasn’t going to end well. Did I feel I wasted my time with this novel? I can say no, I definitely did not but sadly, it was close.
+
+Right off the bat, the book got off to a pretty good start. There was a sense of dread and anxiety and the buildup was slow but satisfying. Another great thing the author got going is the world building. She doesn’t go to great depths to describe every little single detail of every location and object but just enough to allow you to paint that picture in your head. This is okay with me as sometimes giving too much details can drag things down just so the author can up their word and page count. I was also thankful that the novel didn’t feel to YA.
+
+Where the book disappointed is once again how authors feel the need to focus solely on the protagonists and not dedicate enough time on the antagonists. I honestly don’t have a clue as to why authors do this. Labeling your book as an epic novel in my opinion requires the author to spend a good amount of time on the villains and let the readers decide themselves on whether the protagonists motives are just or not. Here, the author spends time reminding the users of the big bad evil dragon that has been asleep for a thousand years throughout the book. But do you as the reader get any insight as the the mind and thought process as to said dragon? No, of course not. The only thing you’ll be doing is waiting for the final battle with the big bad evil dragon at the end and waiting to see how the heroes of the story will save the day and live happily ever after. That’s hardly what I consider to be fun. I also believed that more life could have been breathed into the characters themselves. They’re hardly what I would call memorable or exciting to care about.
+
+In the end, I guess I can label The Priory of the Orange Tree as your normal/classic story of good vs. evil and doesn’t do anything out of the ordinary to separate itself from the rest. It was a long read and although I found myself getting irritated at certain parts of the story, the fact that I continued on is testament to the author’s writing skill. She obviously can’t cater to everyone but I truly believe that a really good and engaging novel should include both enjoyable protagonists and antagonists and that both should be given enough time in the novel to shine.
