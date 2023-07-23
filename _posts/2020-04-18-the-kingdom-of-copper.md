@@ -1,0 +1,18 @@
+---
+title: "The Kingdom of Copper Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(17, 188, 226, 1), rgba(249, 124, 74, 1))
+  show_overlay_excerpt: false
+categories:
+  - Fantasy
+  - Political-Intrigue
+---
+![kingdom-of-copper-cover](/assets/images/kingdom-of-copper.jpg){: .align-left}The Kingdom of Copper by S.A. Chakraborty is the second book in her Daevabad Trilogy set. I thought I would be able to wait until around the third and final book to release before going through this one. My plan was obviously to wait until it released and then burn through them both in one go. Well, I failed. The Kingdom of Copper is in my opinion a decent follow-up to The City of Brass. It feels a bit more grown up due to the increase in political maneuvering between the cast but for the most part, it doesn’t stray too far from what you’d expect.
+
+In The City of Brass, Nahri and Dara took center stage. In The Kingdom of Copper, Dara takes a backseat to Ali. In the first book, I had wanted the author to include a third character’s point of view between chapters instead of just alternating between Nahri and Dara. Here, I semi got that wish in that it’s now Ali and Nahri taking center stage with a bit of Dara sprinkled here and there. The magic is still there between the characters but this time around, it’s Nahri and Ali having their own challenges to overcome. I’m sure many readers will dislike the pairing of Nahri with Ali but I didn’t have any issues with them. Ali’s character does make it feel a bit YA-ish at times but it wasn’t bad enough to grate on my nerves. I still love the fact that the characters each have their own reasons for doing the things they do. Although we clearly get the point that Ghassan can be labeled the villain, things begin to get muddier where Dara is concerned.
+
+The Kingdom of Copper has upped its political game from the first. The majority of the story takes place in Daevabad so you just know the awkwardness and position between Ali and his father and brother will be a focal point. There were some new characters that got introduced but they served more as just fillers if anything. Hopefully they will play a bigger role in the final book. For some odd reason, I still had a slightly hard time remembering the history between the tribes and races while reading the story. I actually had to refer to the glossary to get a refresher. And yes, this is fresh off having finished the first! For example, I know the ifrits are ‘bad’ and an ‘abomination’ but the author does a poor job of reminding the readers why. The Daeva’s/purebloods and djinns are the same yet sometimes I get hints that they aren’t in specific conversations. I’m sure I’m in the minority here but I just can’t shake the feeling of why this is so.
+
+As with the first, The Kingdom of Copper does just right in all the categories to earn my recommendation. I did wish though there were more witty and funny dialogue between Nahri and Ali similar to Nahri and Dara when they met in the first book. Although this second book in the series emits a more serious tone than the first, I don’t see why this couldn’t have been done. Obviously no spoilers here but after what happened, I don’t know how Nahri and Dara could ever return to how things were. It’s a shame but I’ll be waiting for the author to surprise me in the last installment.
