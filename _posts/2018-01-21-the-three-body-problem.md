@@ -1,5 +1,5 @@
 ---
-title: "The Three Body Review"
+title: "The Three Body Problem Review"
 excerpt_separator: "<!--more-->"
 header:
   overlay_image: /assets/images/none.jpg

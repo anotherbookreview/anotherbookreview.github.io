@@ -1,0 +1,17 @@
+---
+title: "Senlin Ascends Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(141, 34, 27, 1), rgba(235, 216, 184, 1))
+  show_overlay_excerpt: false
+categories:
+  - Fantasy
+---
+![senlin-ascends-cover](/assets/images/senlin-ascends.jpg){: .align-left}Senlin Ascends by Josiah Bancroft is a steampunk fantasy series that initially caught my attention simply because of Mark Lawrence, author of The Broken Empire series. I believe this is just book one of a four part series.  Mark had extremely high praises for this book and so I read the description and decided it was worth a try. A fantasy mystery type story is long overdue for me and the setting definitely captured my attention. I’m not really into steampunk type environments but figured it was worth a shot.
+
+The premise of the story seems simple enough. You have a protagonist along with his wife journeys to a mysterious tower of grand making that has attracted tourists and all other sorts of people throughout the land. No one really knows how far up the tower goes nor exactly what purpose the tower serves in general. What could go wrong, right? I was immediately captivated right from the beginning. For some strange reason, I felt like a kid again in hardly being able to wait for the author to get to the good parts of the tower. Deep down you know something bad is waiting to happen but because everything is up to the author and anything and everything is possible in a fantasy world, I was hooked page after page. Senlin Ascends also initially reminded me of Alice in Wonderland in that I’m expecting very strange and wacky things to happen as the characters progress upwards in the tower. Just what exactly is waiting for them the very next floor up and how much wackier would it get?
+
+What I just wrote is what I honestly expected to happen but after having finished the book, I was left a bit disappointed in that it didn’t really happen the way I thought it would in regards to the tower ascension part. I could tell that the author wanted to really emphasize the importance of character development though. Our protagonist starts out as a character with high moral standards and mainly relying on his wits and smarts to diffuse difficult situations. As the story progresses, we begin to witness how the character must rely on other instincts to survive the dangers of the tower. We get to see how the tower changes people and whether our protagonist will give in and do anything necessary to ensure his own survival or will he hold on to his beliefs of old.
+
+What disappointed me the most with Senlin Ascends is that towards the second half of the story, it felt stuck on autopilot mode of sorts. Rather than creating something wacky (in a good way), fun and weird like the first half or so, the author gave us what felt like something from any other book or story. I felt that he could have gotten the same points/storyline across to the reader but written and done in a different way instead of sticking to autopilot. There was so much potential to produce something that would keep me on the edge of my seat and keep wanting more but sadly, that wasn’t what I got. It wasn’t bad or anything but I just expected something more. With this being just book one in the series, it could just be a buildup to part two. But as I’ve said before, there’s just too many books to read with not enough time so while I’ll put book two in my to-read list, I’m not sure when exactly I’ll get to it.
