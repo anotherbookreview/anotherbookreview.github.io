@@ -1,5 +1,5 @@
 ---
-title: "If it Bleeds Review"
+title: "If It Bleeds Review"
 excerpt_separator: "<!--more-->"
 header:
   overlay_image: /assets/images/none.jpg
