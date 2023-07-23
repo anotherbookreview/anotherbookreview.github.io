@@ -1,0 +1,21 @@
+---
+title: "Threat Vector Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(232, 173, 47, 1), rgba(0, 0, 0, 1))
+  show_overlay_excerpt: false
+categories:
+  - Suspense-Thriller
+---
+![threat-vector-cover](/assets/images/threat-vector.jpg){: .align-left}Threat Vector by Tom Clancy and Mark Greaney is another Jack Ryan novel. If you have read the author’s previous novels before, than I’m sure you don’t need me or others telling you of what to expect from him. You’ll definitely have your usual spy games, political jousts, organizations that ends in 3-4 letter acronyms  assassination attempts, guns and a whole lot of violence. However, what makes Threat Vector so interesting as many others have already noted is the “realness” factor. The authors truly gave us a story that could possibly become reality in the very near future. Not distant, but near. Heck it’s probably going on right now as we speak, just that the public isn’t aware of it yet. Of course, we’ve all heard of books becoming reality before but never have I felt more so than with Threat Vector. It truly is scary and that is what makes the story so interesting. Instead of the United States dealing with terrorists from countries such as Afghanistan and Iraq, which I’m sure many of you are sick of reading on, here instead we deal with the elephant in the room: big ol’ China.
+
+Many people believe that the next world war would be based on cyber-warfare and Threat Vector is all about cyber-warfare  If you haven’t noticed already, the Chinese area  very smart bunch and even more so when it comes to technology, especially in the hacking sector. Threat Vector revolves around China wanting to seize control of the South China Sea along with reclaiming back Taiwan as its own. In order to do so, rather than using brute force they instead turn to one of their biggest skill-set advantages over all the other countries in cyber espionage and hacking.
+
+I haven’t really kept up with recent Clancy novels and so Threat Vector was my introduction to Jack Ryan Junior. I definitely recognize familiar faces such as John Clarke, Dom Caruso and of course, Domingo Chavez. Characters such as Gavin Beiry is definitely someone like me and other computer geeks can relate too. Placing someone such as Gavin together with field operatives can make for some fun reading.
+
+What I like most when reading Tom Clancy novels is his ability to tell both sides of the story by focusing not just on the protagonists but on the opposition as well. President Wei Lin and Su seem to be pretty paper bag characters but we at least get to spend some time hearing their sides of the story. Dr. K K Tong was the more scary individual out in China. It was fun to read about him and wondering just what it would feel like to have so much information at your disposal and being able to impact the world around you with just computers alone. With Threat Vector, you’ll definitely get your fair share of action both on land and air. It was pretty awesome reading about the dog fight that pursued between the Chinese and Marines. These action pieces do however require a lot of concentration on the reader’s part as they could be hard to follow along with.
+
+The point of this review is that if you want a well rounded story that has everything included in the package, you’ll be wise to pick up Threat Vector. It is a bit long at around 850 pages though. If you want to think about a possible attack scenario on the United States by none other than China, this book shall do the trick. The timing to it is just right as well. Just recently in the news, Eric Schmidt of Google claims that China is the country to be aware of when it comes to hacking and cyber espionage which evidently puts the United States at a severe disadvantage. Coincidentally, the United States is claiming to beef up its cyber command and defenses to a massive degree. It was also claimed that it was the Chinese that have recently hacked into the networks of The New York Times and The Wall Street Journal.
+
+It’s events such as these that makes me think just how far away is Threat Vector from becoming a reality? After reading this book, don’t be surprised if you suddenly have the urge to place a piece of duct tape over the camera of your laptop!
