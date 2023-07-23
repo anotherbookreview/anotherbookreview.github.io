@@ -1,0 +1,20 @@
+---
+title: "The Fourth Monkey Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(2, 2, 2, 1), rgba(69, 1, 5, 1))
+  show_overlay_excerpt: false
+categories:
+  - Psychological-Thriller
+---
+![fourth-monkey-cover](/assets/images/fourth-monkey.jpg){: .align-left}The Fourth Monkey by J.D. Barker is the first book of two in his 4MK series. I was stuck for nearly three hours servicing my car at a dealership and I needed something to kill the time and so I’ve decided to try Prime Reading. I didn’t want to be too picky or choosy so I went with whatever was shown on the front page that caught my attention,. I don’t believe I’ve picked up a detective/thriller type book in quite some time so, The Fourth Monkey it is! Needless to say, I’ve completed the book in just one day. This feat however is not due to the book holding some magic spell over me or what have you but more so because I just wanted to finish the book. If I didn’t, I don’t think I’d have the time to go back to it later and up till about two hours in, the book held my attention enough to make me not want to give it up. I consider that a huge win considering my short attention span.
+
+One of my biggest concerns immediately with these detective thrillers is having to deal with cliche’s and stereotypes. Will the lead detective be someone with a troubled past who just can’t help but smoke two packs of cigarettes a day or drowning their sorrow in shots after shots of booze? Maybe a wise partner who tags along and can’t help but always crack one-liner jokes? How about a villain who reveals in the end that he or she have so much in common with the lead detective and are very much “alike”? You know, the whole you and I aren’t so different speech. Or worst yet, will the ending somehow pit the protagonist against the criminal mastermind in a one-on-one showdown because police backup somehow won’t make it on time and so the detective must go at it lone wolf style into some hidden dark tunnel to end it once and for all? The Fourth Monkey isn’t above cliche’s but to highlight them would obviously be spoilers. If you love detective stories in general, I’d bet that this is right up your alley.
+
+What I will say is that The Fourth Monkey felt very grounded and life like in that we’re not having to deal with constant explosions and characters have to dodge gunfire from unknown criminals every step of the way. In fact, I would consider this story to be much more of a psychological thriller than suspense type. This ultimately drew me in because every criminal mastermind start somewhere and where better to start from than childhood? The author posted some really good questions for readers who are in social book clubs to ask at the end of the book and I seriously thought it was brilliant. Rather than ending the book as usual, the questions he poses challenges the reader to do a deep dive into the characters themselves to see how or what motivates them to do certain things in the story. This needs to be done in way more books of this kind to keep the readers engaged long after the book has been finished and not just leave on a cliffhanger to promote their second book in the series.
+
+All in all, I think I’ve enjoyed this book much more than what I let on in the beginning now that I’m writing the actual review for it. I like that the lead detective in this story just feels so normal and average. True, some might call that boring and dull. In fact, I’d probably do the same if this was some science fiction or fantasy novel. But somehow personally, I don’t mind it when it comes to these crime stories based in our real world and present living times. The book could be trimmed down a bit in length and with better editing but it in no way distracts from the overall story and mood.
+
+FYI: As a side note, this book reminded me of a movie called “We Need to Talk About Kevin” starring Tilda Swinton. I haven’t watched it but remembered it deals with the age old question of nature vs. nurture and that theme definitely is involved here in The Fourth Monkey.
+{: .notice--info}
