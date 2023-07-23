@@ -1,0 +1,18 @@
+---
+title: "The Three Body Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(17, 51, 97, 1), rgba(199, 212, 51, 1))
+  show_overlay_excerpt: false
+categories:
+  - Science-Fiction
+  - Space-Travel
+---
+![three-body-problem-cover](/assets/images/three-body-problem.jpg){: .align-left}The Three-Body Problem by Cixin Liu is a science fiction novel that tells the story of what would happen if humanity suddenly has the ability to communicate with unknown extraterrestrial civilizations in the our universe. The premise of the story is not anything new but the way the story is written and the events that transpire is what makes this novel such a great read! Its one of the better science fiction books I’ve read in a while and I’m already looking forward to book number two in the series. While the novel can be considered hard science fiction, there were only a couple of times where I was completely lost as to what was going on simply because the author started going ballistic with using technical science terminologies. But luckily, at least for me it was, those parts are few and far between. You should have no major issues with following the main plot for the most part.
+
+The Three-Body Problem strives to challenge our imagination and I especially loved the parts when the protagonist was inside the alternate world. Not only did it present a type of tense atmosphere but also one of great mystery. Normal rules and physics don’t apply and just about anything can happen. Moral choices also plays a central role and the novel forces you to think for yourself on decisions that the characters themselves make in the story. Whose right and whose wrong? Would you have done something different yourself given the same conditions and predicaments? Can humanity really be saved without outside interference and who gets to make the actual call to decide? Our government? Scientists? Environmentalists?
+
+The story itself is a slow burner and rightfully so. The timeline spans through decades and it sets the backdrop of what is to come in the followup novel in my opinion. In reality though, I feel that this is really how its supposed to be like, unlike  extraterrestrial contact we see in movies. Just because humanity may be able to find civilizations in other universes and planets doesn’t mean that we can do it in a day or month and The Three-Body Problem highlights exactly that point. What if we’re really not alone on this planet and other civilizations have tried to make contact with us, just that it hasn’t reached us yet due to the immense distance of the universe and galaxies?
+
+After having read through the novel, I’m sure we’ll all eventually ask the same ol’ dreaded question of “Are we really the only intellectual civilization in this whole big universe?”. Is it really that hard to fathom that at any given moment, somewhere out there in the galaxy, that another living and breathing species is going on about their daily ways of life just like we are here on Earth? Would we really want to make contact with them and if so, how’d we know if it’s for the better or the worst? I personally loved The Three-Body Problem and to be honest, it just feels great to read something that not only challenges our mind and forces us to asks questions to we know we won’t get the answers to.  That’s the exciting part. With so many books getting turned into major movies, The Three-Body Problem is definitely one that I am rooting for!
