@@ -1,0 +1,20 @@
+---
+title: "The Ocean at the End of the Lane Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(75, 121, 136, 1), rgba(5, 23, 39, 1))
+  show_overlay_excerpt: false
+categories:
+  - Dark-Fantasy
+---
+![ocean-end-lane-cover](/assets/images/ocean-end-lane.jpg){: .align-left}The Ocean At the End of the Lane by Neil Gaiman is my first attempt into dissecting the mind of this ever so popular author. Therefore, it made sense for me to pick a short novel such as this one here. After having read through the novel, I couldn’t immediately think of words to describe my reading experience. So much for trying to dissect his mind, right?! One that did eventually jumped at me was “weird”. Not in a bad way mind you but just “weird” in general. I guess that can explain why it took me a whole week and half to write up my review after having completed the book. As I have read other readers opinion of the author, that word often comes up to describe his works and I can’t blame them. I’ve also read that he’s one of those authors that you’re either going to like everything he does or you’re not, there is no middle ground. After having read through this novel, I’m not exactly sure where I stand as of yet but I admit leaning more towards the latter. I feel like this novel didn’t do the author’s justice and another chance needs to be given.
+
+**FYI:** For those that love these types of stories and fantasy settings, I highly, highly recommend that you go watch the movie Pan’s Labyrinth if you haven’t done so already! Just believe me in this. You won’t regret it.
+{: .notice--info}
+
+What I can best describe this novel as is a novel in the realism fantasy genre. Sounds like a oxymoron but it really is the best I can describe it as: mystical beings and manifestations within the protagonist’s real living world. From what I can remember, the narrator of the story never reveals his name. Instead, we get to read about what happened when he takes a break in his present time to revisit an old farm he visited often when he was in his early childhood and the adventures he has had with the most mysterious girl he’s ever met in Lettie Hempstock. What ensues is a slow start to a story that maintains its slow pace throughout the majority of the book but yet somehow still manages to bring about a flood of emotions hitting you in the face without you ever realizing it until later. Weird, I know.
+
+I’m guessing because of the short length of the book that the author didn’t have much time to explain things as thoroughly as I would have liked. There are some events that happen without you really getting to understand why. It just is. That does lend to the overall mysterious factor but others could argue that the author rushed it. However, I also felt the characters of Lettie and her mom and grandma was also not as detailed as I would have liked. It felt like some parts were explained a bit to the narrator and he’d just have to accept it for what it was. I wouldn’t say this adds confusion to the overall novel but again, this is not what I usually prefer. The sad news about all this is that I didn’t really feel a strong connection for the characters.
+
+The Ocean at the End of the Lane is a sad, happy, mysterious and frightening short novel all rolled into one. Of course, the one question that I’m sure many readers must ask themselves at the end is did the events really happen or was it just the imaginings of a lonely seven year old boy? My cliche answer is that it doesn’t matter. We all interpret meanings differently and this is no exception. I think that’s what the author was going for. Again, to sum up my experience after having read through my very first Neil Gaiman novel, is weirdness in a very funky way. Not good but not bad as well. Maybe this is what the author specializes in? I have no idea but I’m willing to take a bet that he’s written much better novels than this.
