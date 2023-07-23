@@ -1,5 +1,5 @@
 ---
-title: "The End of Diabetes War"
+title: "The End of Diabetes Review"
 excerpt_separator: "<!--more-->"
 header:
   overlay_image: /assets/images/none.jpg
