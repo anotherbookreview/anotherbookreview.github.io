@@ -7,6 +7,7 @@ header:
   show_overlay_excerpt: false
 categories:
   - Science-Fiction
+  - Dystopian
 ---
 ![wool-omnibus](/assets/images/wool-omnibus.jpg){: .align-left}Wool: Omnibus Edition by Huge Howey is a light sci-fi series that actually combines all 5 books in the series into this one volume. If you’re like me who didn’t hear about this series till now, then you’ll be able to save a lot of money by just getting this edition. I don’t usually read science fiction but if this is what most of them are like, then please sign me up for more! The story I’m sure many of you have at time or another either read, heard or visualized about in some form or way. In some distant future, the world  outside is made uninhabitable. In order for humans to survive, they are forced to be secluded in an underground silo, never knowing how the outside world is like besides getting some view from a visual sensor or two located outside of the silo. People have been living this way for many, many years. But here’s the twist. As punishment for actually talking about the forbidden outside world, these people actually got what they wanted: to be able to actually go outside. At first I didn’t really understand what that meant but over time, things will be much more clearer and the fun then really begins!
 
