@@ -1,0 +1,18 @@
+---
+title: "Voices of the Void Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(51, 14, 51, 1), rgba(195, 89, 58, 1))
+  show_overlay_excerpt: false
+categories:
+  - Science-Fiction
+  - Space-Travel
+---
+![voices-void-cover](/assets/images/voices-void.jpg){: .align-left}Voices of the Void by David V. Stewart is a short story involving a space mercenary that has some serious vision issues! I came across this author after having read one of HP Lovecraft’s story and wanted some opinion on what others thought. I stumbled upon David’s short video review on Youtube and at the end, discovered that he is an author himself. Having some free time on hand, I thought I would take up on his offer to read Voices of the Void. The short story consists of only 97 pages and $.99 on Amazon so it was definitely worth a try since I liked his video explanation so much. Although I didn’t came out too impressed after having finished it, I will say that having read Voices of the Void does inspire me to read more short stories going forward to support independent and self published authors on Amazon.
+
+Voices of the Void follows Andrew on the planet of Gibraltar as a mercenary on a mission to find a missing girl for a his client. Right off the bat you’ll know that something went horribly wrong as not a single living soul is to be found. Being a big mining colony planet, the facility should have been filled with workers and children. Soon enough Andrew is thrown into danger and fighting for his life. I was quite excited up to that point but once the horror was revealed, I couldn’t help but do a face palm. Obviously no spoilers here but needless to say, I looked at the publication date and was surprised to discover it was the year 2019. The theme has all but been done by nearly everyone in every industry type.
+
+Following along with Andrew at first seemed a bit difficult. Andrew has a ‘gift’ and in a way has multiple versions of himself in his head. But once settled in, it wasn’t too bad at all. One of the things that I personally thought would have made this story a lot better would have been if the author spent a little more time giving his other selves some personality. For example, one version of himself seems to be more sinister and occasionally trying to take over Andrew’s current self. However, we don’t get much more. His past and future selves don’t seem to have personalities at all. It would have been awesome if the author spent less time with gunfights and constant action oriented sequences and instead develop some sort of connection between the current Andrew with all his other versions. One example would have been if Andrew and his sinister version had some witty dialogue between them or some type of tug-o-war between his past and future versions. After all, they are the one’s responsible for saving his bacon. Call me a party pooper but we all know his character isn’t going to die in the middle of the story so all non-stop action and fight scenes to me felt painstakingly unnecessary at times. Developing a more complex relationship with his other selves in my opinion would have at least made me care whether Andrew lived or died in the end.
+
+The author has a bunch of other self published books on Amazon and one called Muramasa: Blood Drinker definitely got my attention. It’s a full featured book at a little over 500+ pages so I am intrigued to see how the author would fare given more room to develop his characters!
