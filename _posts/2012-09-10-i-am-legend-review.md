@@ -1,0 +1,17 @@
+---
+title: "I Am Legend Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(163, 25, 7, 1), rgba(12, 4, 1, 1))
+  show_overlay_excerpt: false
+categories:
+  - Science-Fiction
+---
+![i-am-legend-cover](/assets/images/i-am-legend.jpg){: .align-left}I Am Legend by Richard Matheson is a book about a lone human survivor in a world populated with disease stricken vampires. I’m sure many people did not hear about this story until they’ve watched the movie starring Will Smith. Not surprisingly, I am one of those people. However, I Am Legend was a novel published back in 1954! Of course the story got popularized and a couple of movies was actually created based on the novel. With that being said, I didn’t really like the movie version and I don’t even remember if I finished it or not. I decided to give the book a try since there has been so much talk about it in the past. At a little over 300 pages, it wasn’t that big of a risk. Upon completion though, I still find myself not really liking the story all that much. In fact, I was pretty close to not wanting to finish the book just like with the movie.
+
+The story is simple. Robert Neville believes that he is the last human in a world infested with vampires. Somehow he is immune to the plague that managed to transform all other humans into vampire-like creatures and make his world a living hell. As the story progresses, Robert decides to try and solve the mystery of what makes these creatures tick and why it is that they are afraid of garlic and the holy cross.Throughout the story, Robert will have self doubts as if you think about it and put yourself in his position, why should he even care? He is the last surviving human and its not like he will make a difference even if he finds out the truth about the whole affair.
+
+One of the biggest disappointment I had with I Am Legend is that Robert is just so boring! Robert spends most of his days fortifying his home against the vampires and once night comes, he locks himself in his home and drinks himself to a stupor to try and forget about his situation. This pretty much continues until about the first 40% of the book. Now, I do understand that this is a depressing story and as such, the character should also follow along those guidelines. It just wasn’t that fun to read. For the last 60% or so of the book, things do get a bit more interesting once Robert actually does his best to find out the reasoning for the plague and how it affects humans. While reading, I was so anxious for them to explain the “legend” part. Towards the end, once I realized what it actually meant, it did give me some chills.
+
+Upon completion of the book, I just can’t help it but to think of how this story could be rewritten for the modern day era. Robert practically has the whole Los Angeles to himself and it felt not much was accomplished. It would have been awesome to read about Roberts adventures when he goes foraging for food and supplies throughout the city. I also wished more emphasis was being put on the vampires. At certain times, they seem more like mindless zombies to me than vampires. To give credit where its due though, the author did successfully create a very depressing atmosphere and I think that was his intention. Its not so much about the action or killing but more so about human weakness. My final conclusion is that I Am Legend is very average and does not really deserve the hype it did.
