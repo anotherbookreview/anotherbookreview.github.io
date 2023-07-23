@@ -1,0 +1,18 @@
+---
+title: "Seeds of Betrayal Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(121, 106, 156, 1), rgba(220, 98, 55, 1))
+  show_overlay_excerpt: false
+categories:
+  - Fantasy
+  - Political-Intrigue
+---
+![seeds-of-betrayal-cover](/assets/images/seeds-of-betrayal.jpg){: .align-left}Seeds of Betrayal by David B. Coe is book two in the Winds of the Forelands series. Truth be told, there aren’t much book series where I immediately start the second book right after having read the first. There’s obviously exceptions but in most cases, I’d take a break, read or do something else for a while and then come back to it. Well, I’m proud to say that the Winds of the Forelands series definitely made it to that exception list! I can also say with confidence that as soon as I’m done with this review, I’m off to starting the third book. I haven’t felt this passionate for a fantasy series since having read the ASoIaF.
+
+As I matured as a reader, I find myself no longer caring for stories that include a protagonist that has everything going his or her way only to have a happy ending at the end. No longer do I care for stories where a young farm boy leading an ordinary life all of a sudden becomes the hero with mysterious powers and is now the sole savoir of the world from a mysterious dark force. Now a days, I find myself wanting to read of an antagonist instead. In any case, this series got me excited again and as you can guess already, Seeds of Betrayal does not disappoint. Characters are ordinary but interesting enough to keep you from having to roll your eyes or skipping certain section when it comes to one of these people. One thing I did hope for was for a character to emerge that made me hate their guts. Usually in a political setting, there would always be that one or two character that would just make you want to resent them for their shrewdness and closed-door scheming plans. The duke of Kentigern comes close but I personally wanted one or two more characters to fill that role.
+
+The author continues with his brilliant and smooth writing style. This was another example of a “page  turner” although there’s hardly any action at all. I wanted a series laden with court politics and I’m happy to say that I’ve got my fill here. Whereas in the first book we stayed in the kingdom of Ebithar, the second book introduces us to the major players in the other kingdom of Aneisse. We are introduced to some new characters and although it may be hard to keep track of them at certain times, especially with all the dukes and their ministers, veteran readers will adjust quickly. I especially loved how in the first book, we learned that although the two kingdoms hate each other, we only got the point of view from the Ebitharian side. Here, we get to see things more from the Aneissian side and that’s what I loved best in epic fantasy series. The ability for the author to present all sides of the story and introducing a whole bunch of characters to make for an interesting read without having to always resort to action.
+
+Seeds of Betrayal was another slow burner but one that was still surprisingly a joy to read, just like Rules of Ascension. If you didn’t like the first, I doubt you would have continued anyways. I have a good feeling things will pick up in Bonds of Vengeance and I can’t wait to start on it.
