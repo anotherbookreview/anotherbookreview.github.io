@@ -1,0 +1,20 @@
+---
+title: "The Remaining: Aftermath Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(66, 52, 69, 1), rgba(216, 194, 178, 1))
+  show_overlay_excerpt: false
+categories:
+  - Science-Fiction
+  - Horror
+---
+![aftermath-cover](/assets/images/aftermath.jpg){: .align-left}The Remaining: Aftermath by D.J. Molles is the second book in The Remaining series. Picking up right after the end of book 1, The Remaining, Captain Lee Harden of the United States military (or what is left of it) finds himself in the middle of Camp Ryder trying to help out the survivors of a mass plague that has left the US is complete shambles. I loved the first book and I can say the same for this one. At the end however, there are still some unanswered questions with the main one being just how did this whole plague situation came to be? The author hardly gave any hints in the first book and totally skimps on this part in Aftermath as well. All we know is that the infected are somehow getting smarter but that’s where it stops. Like with the first book as well, the infected doesn’t seem to be the main focal point in the overall story. They certainly appear at the right time throughout the story but I just feel that something is awry here but can’t really put my finger on it.
+
+The Remaining: Aftermath puts you right back in the shoes of Captain Lee Harden in his ongoing mission to reestablish some sort of order in the total chaos by linking survivors together in hopes to rebuild society. In the beginning, Captain Harden has a pretty tough time convincing the survivors at Camp Ryder that he is one of the good guys. Soon enough, he finds himself along with a couple of other survivors on a mission to recover supplies and weapons from one of Harden’s secret military bunker caches and that is when all hell breaks loose.
+
+What I like most about Captain Harden as a character is that the author does a good job in painting him as not a “super soldier” but rather as an excellently trained military soldier instead. The difference here is that the Captain, like many other soldiers in real life, makes mistakes. How one adjusts to the different scenarios and situations around him and being able to make the best out of it is what makes a good soldier. The Captain here absolutely qualifies in that aspect. You’re probably not going to read about him making some ridiculous long sniper shot that all seems impossible save in a video game or how he will kick open a door and start going Rambo style on the infected. Many, if not all, of his decisions has been thought out and has a purpose. I guess this is one of the main reason why I am interested in this series.
+
+When the action gets going, it’s hard not to get pumped up! The infected does spring up throughout the story but I’m guessing not as much as some hardcore zombie lovers would have liked. At certain times, I feel like the infected were just set pieces in the story because that’s what people crave these days. As a reader, I don’t feel too attached and I’m guessing this has to do with not really knowing why or how the infected came to be. In book one, they were just there and no explanation were given. In book two here, the same can be said and at times, it feels like the author just put them there to fulfill his obligation in creating a “zombie” type book and a cheap way to quickly give the readers a quick dose of suspense/thriller.
+
+In the end, this was a good continuation in The Remaining series and I can’t really say that much bad things about it. The characters are awesome and the action will definitely make you keep reading. I really have no idea how much more books will be in this series but it definitely seems to be more than three. I just hope in the next book, the author fixes one of my biggest complaint about this series so far and that is actually explaining how the infected came to be!
