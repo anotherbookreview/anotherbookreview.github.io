@@ -1,0 +1,17 @@
+---
+title: "The Book Thief Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(26, 681, 9, 1), rgba(221, 211, 142, 1))
+  show_overlay_excerpt: false
+categories:
+  - Historical-Fiction
+---
+![book-thief-cover](/assets/images/book-thief.jpg){: .align-left}The Book Thief by Markus Zusak is suppose to be one of those rare book that comes along every so often and change your outlook on life. It’s sad, depressing and makes you really think on what is most important in life. Did it succeed in doing that for me personally? Honestly, I wouldn’t really say so as I’ve definitely read other more life changing stories that The Book Thief but that isn’t to say that I didn’t enjoy the book. It is definitely something special and I’m extremely glad that a movie was made of it as it broadens the audience members. Instead of always watching mindless action flicks, I hope more movie-goers give this movie a chance in hopes of experiencing something a little different than what they are normally used to.
+
+If you’ve never liked stories that uses a war torn WWII Germany as the backdrop, then well, that’s exactly what you’ll be getting here! Personally, I can never tire of it. It usually makes for a somewhat depressing yet captivating story. The Book Thief is told through the eyes of a very special “narrator” and I’m sure that if you’ve read some of the other reviews for the book, someone somewhere must have given it away. Luckily for me, I just picked up the book and started reading without every going through one user review at all. It does make for a very interesting narrative as you’ll follow along in the childhood of Liesel Meminger of Himmel Street. Being very poor, there’s not much that Liesel can do that requires money. Eventually though, Liesel finds that she would come alive through the power of words in a book. As the title already gave it away, stealing books would become one of Liesel’s favorite hobbies.
+
+What I liked most about The Book Thief is the poetic nature of the author’s writing. He never lost me for one moment throughout the book, which is quite lengthy if I think about it now. The author just finds a way to write ever so smoothly from page to page and once you discover who the narrator is, the poetic style of writing feels even more haunting and chilling to say the least. It might put some readers off in the beginning but if you stick with it, you’ll feel right at home after a few chapters in. What I’m most disappointed with in The Book Thief is that well, I actually thought it would involve more book stealing! I thought it would involve Liesel finding more clever ways to get her next book in the collection but it’s not really about that. The characters in the story are a bit dry as they just seem to remain the same throughout the book save for a few instances. On a positive note however, I still can say that there were many memorable pieces sprinkled throughout the book to makeup for the negatives.
+
+The Book Thief in my opinion definitely deserves its praises but everything is with fault and so is this book. When you have such a highly rated and popular book, there are bound to be many readers who gets sucked into the hype only to realize that its not worth it. That is fine because you can’t create something that everyone will like. The Book Thief gives me yet another look into one of the darkest periods of mankind and for that it was worth reading in my eyes.
