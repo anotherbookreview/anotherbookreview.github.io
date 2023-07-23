@@ -3,7 +3,7 @@ title: "The Book Thief Review"
 excerpt_separator: "<!--more-->"
 header:
   overlay_image: /assets/images/none.jpg
-  overlay_filter: linear-gradient(rgba(26, 681, 9, 1), rgba(221, 211, 142, 1))
+  overlay_filter: linear-gradient(rgba(31, 13, 9, 1), rgba(221, 211, 142, 1))
   show_overlay_excerpt: false
 categories:
   - Historical-Fiction
