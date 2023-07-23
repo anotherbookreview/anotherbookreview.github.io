@@ -1,0 +1,20 @@
+---
+title: "The Remaining: Fractured Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(91, 58, 31, 1), rgba(21, 16, 7, 1))
+  show_overlay_excerpt: false
+categories:
+  - Suspense-Thriller
+  - Horror
+---
+![fractured-cover](/assets/images/fractured.jpg){: .align-left}Fractured by D.J. Molles is the fourth installment to his ever so popular ‘The Remaining’ series. I’m not a hardcore zombie fanatic like others and so this book series is pretty much the only thing I got going whereas flesh eating zombies are concerned. I’ve have thoroughly enjoyed this series so far and Fractured seems to have taken a much more mature turn. What I mean is that it seems the author has taken more time to craft his storytelling skills. The results of this is churning out the biggest book yet in the series at over 500+ pages. However, there were things that I didn’t really like about Fractured and I’m a little surprised at the near perfect score this book currently is getting on Amazon.
+
+The story continues with Captain Lee Harden being almost left for dead after the events of the last book. Various groups from Camp Ryder are out on a mission and with Fractured, the author decides to shift the main focus away from Lee and instead branch out with the different focal points of the various characters instead. Basically, where you had followed Lee nonstop during the other books, here we almost take turns reading about the events that unfolds for the other characters as it happens. This does make sense since these characters are spread apart from each other in the world.
+
+One of the biggest disappointment in my opinion is where the story is headed. I got into this series because it was suppose to be about zombies and the undead. With Fractured, it seems as if the focus was anything but on zombies. And we are talking about a pretty big book here folks. While the author decided to focus more on character development, he forgot about what attracted readers like me in the first place. With the first couple of books, I was gripped by the amount of action and events that unfolded. There were many memorable pieces and following Lee around while he tries to find survivors was a blast to read through. With Fractured, things headed more towards an ‘internal strife’ kind of thing between the different characters instead. Throughout this entire book, there is only one memorable set piece that stood out to me that had to deal with the zombies themselves. Again, not good considering this was suppose to be a series on zombies. No doubt I love to see the author branching out and making the story line more dynamic but I am positive that there will be readers such as myself that feels something is not quite right with Fractured. Of course, we are the few minority going by what others are saying on Amazon.
+
+Action wise, this is your standard affair of things and if you’ve read the previous books, then you’ll be right at home. I would have appreciated if the author spent some time giving a brief heads up on who the characters are though because between this book and the last, I failed to have remembered many of the main players in the story save for a couple. Fractured is without a doubt one of the darker books in the series and I love that part. Just nitty and gritty. Nothing beautiful here to look at folks! While Fractured is still considered survival horror, I feel that it’s beginning to slip away from that genre.
+
+While I’m not a big zombie fan, there was just something special that drew me into The Remaining series from the very start. The story felt mature and well put together. While Fractured is still considered a good book for the series, I just can’t help but wonder how the next book will go. Will the zombies be in the forefront again or will they be just a nuisance in the overall scheme of things? I actually have a feeling of what’s going to happen in the next book (final one?). It’s not going to be good if that proves to be true if my opinion is anything to go by but I’ll just have to wait and see.
