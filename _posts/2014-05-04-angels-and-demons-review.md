@@ -1,0 +1,21 @@
+---
+title: "Angels and Demons Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(135, 14, 41, 1), rgba(245, 168, 49, 1))
+  show_overlay_excerpt: false
+categories:
+  - Historical-Fiction
+  - Suspense-Thriller
+  - Mystery
+---
+![angels-demons-cover](/assets/images/angels-demons.jpg){: .align-left}Angels & Demons by Dan Brown is the second installment in the Robert Langdon saga. After having literally breezing through The Da Vinci Code, I felt it was a long enough hiatus to pick up the next installment. It was offered for a good price and I didn’t exactly get a chance to watch the movie so it was a win-win situation! After finding out that it had to do with the Illuminati cult, I thought to myself this is definitely going to be another solid winner. If you frequent the Internet, no doubt you’ve heard of conspiracy theories about modern day celebrities being a secret member of this Illuminati group. I thought it was interesting but never had a real chance to research it on my own. Angels & Demons I was hoping to give me a lecture on this very subject. Although this is fiction work, I was still hoping the author would shed light on this matter in hopes of getting the readers to think with their mind similarly to how it did with The Da Vinci Code.
+
+I knew I was in trouble only after reading the first couple of chapters or so. Why? Because I remember The Da Vinci Code starting off the same way! It starts off with some person getting killed by a mysterious person, leaving a clue of some sort, Robert Langdon getting woken up and briefed on the situation, he moans and groans about not wanting to do anything about it, he suddenly gets convinced its worth a look, he makes a trip to the location, meets and teams up with a hot woman and you get the rest. Some readers obviously don’t mind an author rehashing a tried and tested formula but then there are readers like me who thinks its lazy work. At this point, I thought not all was lost because I could at least count on the author delivering a solid mystery that will no doubt wheel the protagonists around Rome in hopes of trying to save the day or night. Well, I was semi-wrong again. The mystery part that is.
+
+It’s not that the Illuminati is boring to read about. I said in the beginning that this subject  does interests me. It’s just that this time around, the author failed horribly to capture my attention. With The Da Vinci Code, the mystery about the whole Mona Lisa and the Holy Grail was extremely captivating and that’s why it lead to that book being hailed as a page-turner. The use of real life artifacts no doubt is a staple with these stories but unlike The Da Vinci Code, it didn’t really make me go on the Internet to look for pictures on these art pieces. Something just felt lackluster in Angels & Demons.
+
+As far as character goes, well, let’s just say the author isn’t really gifted when it comes time to fleshing out the villains. The main killer here is a bore to read. It seems as if the author doesn’t know how to flesh him out as a evil person so hey, what to do? Oh, why, lets turn him into a sex craved maniac who gets high off of torturing the women before having his way with them? Hmm, where have we heard that one before eh? Again, it makes the author look lazy when he does these kinds of things.
+
+The book started off slow but picked up at around 23%, which I was glad for. There is no doubt that many would consider the author “brave” for tackling such a sensitive topic for so many. I’m sure he knows that controversy creates publicity, good or bad, and that in turn allows him and his publishers to cash in. I can say for certain that I will not being reading another Dan Brown book for a long time. It even got me thinking about whether my outcome of Angels & Demons would have been the same if I read it first instead of The Da Vinci Code. I can honestly say that I don’t really know. The latter set the bar pretty darn high. I rarely will read a book twice but I can say for certainty that I will read The Da Vinci Code again. Not so much Angels & Demons.
