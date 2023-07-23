@@ -1,0 +1,18 @@
+---
+title: "Weavers of War Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(243, 178, 46, 1), rgba(113, 70, 139, 1))
+  show_overlay_excerpt: false
+categories:
+  - Fantasy
+  - Political-Intrigue
+---
+![weavers-of-war-cover](/assets/images/weavers-of-war.jpg){: .align-left}Weavers of War by David B. Coe is the fifth and final book in the Winds of the Forelands series. It’s been a long journey but finally, I made it to the end. As expected, this book is the most action oriented out of the bunch and I’m even going to say that it has the most action out of all the previous four books combined. Four books of preparation and build up have lead to this. Am I disappointed? I can honestly say I’m not. Did I wish for an alternative ending and with how things played out? A little. In the end, I still thought that this series could have been squeezed into four books instead of five because there were some things that either could have been left out or used to add a bit more “variety” to the overall plot.
+
+Throughout the series, we learned about the Qirsi movement and the threat it brings to the Forelands. Yet, through the majority of the books, we’re having to read about the stubborn Eandi nobles failing to see this even after events unfolding the way they did throughout each book. I guess that was one of the purpose the author intended to make regarding the human race. We’re stubborn people. This leads me to one of the major issue I have of this series: the final fight/showdown just didn’t live up to all the buildup and hype leading up to it. I had a gut feeling this was so during book three and especially after four. One thing that could have helped in my opinion is bringing a more mixed variety of events into the fold. Using the same old trick of framing murder on someone or another major house can get old pretty quickly. Although that was the intent to have the major houses fighting and weakening one another, I still felt things could have varied a bit yet still have the same effect.
+
+Regarding the characters overall, I would judge it fair. They’re not too memorable but did enough to move the story along. Strangely, I found Dusaan not evil enough. He was evil in that he was the most powerful and abused his power to have other Qirsi do his bidding but I wanted for him to be more cunning and adding more treachery to his plans to have the houses go to war with one another. On a positive note, I think the author achieved a good balance and job of managing the many characters of both the Eandi and Qirsi race in the book. I believe he also did a very good job at the writing throughout all five books and I think that’s what has drawn me in the most from the beginning. Writing a story that can captivate your audience is never an easy thing, particularly one that expands to a couple of books so for that, I commend the author. I have a short tolerance nowadays and if a story can’t hold my attention after a certain period, I’ll move on.
+
+My final opinion on the Winds of the Forelands series by David Coe is a bit higher than your above average. I was completely taken in after having read the first two books but I was a little disappointed with how things went after that. Do I regret reading this series though? Absolutely not! There’s always going to be a lot of up’s and down’s whenever you’re reading a story that expands this many books. It’s the journey that you’re going through that counts the most and I can say definitively that I am glad to have been a part of this one.
