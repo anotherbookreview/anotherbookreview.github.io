@@ -1,0 +1,20 @@
+---
+title: "All Systems Red: The Murderbot Diaries Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(64, 81, 81, 1), rgba(135, 149, 146, 1))
+  show_overlay_excerpt: false
+categories:
+  - Science-Fiction
+  - Space-Travel
+  - Short-Read
+---
+![all-systems-red-cover](/assets/images/all-systems-red.jpg){: .align-left}All Systems Red: The Murderbot Diaries is book one of six in Martha Well’s Murderbot series. Let me begin by saying that I can’t remember the last time I literally laughed out loud reading a book of any kind! Judging by the cover and title alone, I expected, well, a robot that has gone gained a consciousness, gone rogue and is out loose in the universe wrecking havoc and gaining revenge on its creator/captors. What I got instead was a robot who has gained consciousness, hacked its own system so as not be controlled by the company, rented out as a security robot to protect groups of scientists while they gather resources on remote planets all the while trying to prevent the fact that it has gained a sense of self-awareness by limiting as much human social interaction as possible and spending the majority of its time binge watching media shows on the web. Wait, what?! That’s right folks, we have our first ever murdering expert antisocial robot!
+
+Words cannot describe how hilarious it was for me to read this short story. Younger crowds will remember a very popular Youtube parody series someone did of Master Chief of Halo titled something like “Master Chief Sucks at Halo 3”. It had me broken down to tears laughing and the Murderbot reminded me of it. The story itself is fairly average with the real meat of it coming from the Murderbot’s lack of communication attempt with the humans he’s in charged of protecting during a mission gone wrong. Reading the robot’s every attempt to escape human communication and interaction just puts a smile to my face almost every time. Not to mention that fact that the Murderbot is a media binge watching freak just makes it that much more funny.
+
+The rest of the human characters were your run of the mill cookie cutter smart scientist and doctor figures. The star of the show as you can tell is obviously the Murderbot itself. In a way though this does makes me afraid of what is to come for the series if just a bit. Will the Murderbot series turn into just a one trick pony or will the author create more memorable characters along the way in addition to more intriguing storylines? I’m asking myself this because the novelty of Murderbot wore off a little towards the end with not much else supporting it. What I do know is that this series will need to be consumed slowly overtime rather all at once. I feel like the magic will wear itself thin if other books are hastily read. I needed a good laugh during this Coronovirus outbreak and I am surprised to have found it here of all places!
+
+NOTE: I understand a lot of frustration readers are having revolves around how the books continually gets more expensive as the series goes on yet they contain mainly around 150 pages or so. I do notice that the series actually ends with book four with book five being actual full length novel at 300+ pages. The author also have decided to expand on the series with book six coming out in April of 2021. Sometimes I believe that the author does not get to set the prices for their work but rather their publishers which in this case is Macmillan. I too believe the price is a bit high but I have to remember that it’s about quality, not quantity. A kindle book I paid $2.99 consisting of 800+ pages isn’t going to do me any good if it’s an absolute bore and chore to read. I obviously have only read the first in this series but I think a good middle ground would have been $4.99 or so being that the author can claim she was an actual Hugo Award winner. The other option like others suggested would be to wait for an omnibus edition to arrive but there’s no guarantee of that happening.
+{: .notice--info}
