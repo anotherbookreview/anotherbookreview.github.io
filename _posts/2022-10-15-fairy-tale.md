@@ -3,7 +3,7 @@ title: "Fairy Tale Review"
 excerpt_separator: "<!--more-->"
 header:
   overlay_image: /assets/images/none.jpg
-  overlay_filter: linear-gradient(rgba(10, 177, 145, 1), rgba(164, 59, 61, 1))
+  overlay_filter: linear-gradient(rgba(6, 73, 125, 1), rgba(217, 100, 50, 1))
   show_overlay_excerpt: false
 categories:
   - Dark-Fantasy
