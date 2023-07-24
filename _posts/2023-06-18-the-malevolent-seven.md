@@ -8,7 +8,7 @@ header:
 categories:
   - Dark-Fantasy
 ---
-![the-malevolent-seve-cover](/assets/images/the-malevolent-seven.jpg){: .align-left}The Malevolent Seven by Sebastien de Castell is a dark fantasy novel about antiheroes who hilariously are put in a position to save the mortal realm. Let's get this out of the way: if you don't take this novel too seriously, you'll have a fun time. They weren't kidding when it got compared to Dead Pool. I got the impression that making fun of the traditional wizards would be a norm in this story, but other than a few opening pages, there was not much afterward. What we do get is a band of unique magic users that somehow got tasked with saving their world by getting pulled from both sides.
+![the-malevolent-seven-cover](/assets/images/the-malevolent-seven.jpg){: .align-left}The Malevolent Seven by Sebastien de Castell is a dark fantasy novel about antiheroes who hilariously are put in a position to save the mortal realm. Let's get this out of the way: if you don't take this novel too seriously, you'll have a fun time. They weren't kidding when it got compared to Dead Pool. I got the impression that making fun of the traditional wizards would be a norm in this story, but other than a few opening pages, there was not much afterward. What we do get is a band of unique magic users that somehow got tasked with saving their world by getting pulled from both sides.
 
 >"No such thing as luck. Just angels and demons putting their thumbs on the scale." - **Cade Ombra**
 
