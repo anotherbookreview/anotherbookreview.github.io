@@ -10,7 +10,7 @@ categories:
   - Space-Travel
   - Did-Not-Finish
 ---
-![unconquerable-sun-cover](/assets/images/unconquerable-sun.jpg){: .align-left}DISCLAIMER: I did not complete the book and have stopped at the 40% mark.
+![unconquerable-sun-cover](/assets/images/unconquerable-sun.jpg){: .align-left}**DISCLAIMER:** I did not complete the book and have stopped at the 40% mark.
 {: .notice--danger}
 
 Unconquerable Sun by Kate Elliott is book one of two in The Sun Chronicles. I was extremely stoked to start this one. I was advertised non-stop space battles! Exciting political intrigue! A heroine for the ages! Humor! What I instead got was a teenage princess pouting her lips when her queen mother doesn't want to acknowledge her battle accomplishments. Rather than getting assigned to an important post on a battle cruiser, she instead gets relegated to touring duties with her ragtag band of supporters who each have almost zero interesting characteristics and charisma. Up to the 40% mark, I got zero space battles. So much for non-stop action!
