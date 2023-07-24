@@ -7,7 +7,7 @@ header:
   show_overlay_excerpt: false
 categories:
   - Dark-Fantasy
-  - Did-Not-Finsh
+  - Did-Not-Finish
 ---
 ![fairy-tale-cover](/assets/images/fairy-tale.jpg){: .align-left}**DISCLAIMER:** I did not complete the book and have stopped at the 60% mark.
 {: .notice--danger}
