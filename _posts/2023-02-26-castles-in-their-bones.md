@@ -8,6 +8,7 @@ header:
 categories:
   - Fantasy
   - Political-Intrigue
+  - Romance
 ---
 ![castles-in-their-bones-cover](/assets/images/castles-in-their-bones.jpg){: .align-left}Castle in their Bones by Laura Sebastian is the first book in the trilogy series. Conscripted even before their births by their empress mother, triplets Sophie, Dalphne, and Beatriz have been trained and groomed for one purpose in life and one purpose only: to sow discord, chaos, and ultimately war in the three countries so that their mother can swoop in and take over to finally be able to reunite the once great Bessemian empire. This series definitely caught me by surprise as I was not actually looking for a political fantasy YA series as my next read but the story seemed too good to pass up. I'll willing to trade for some YA romance thrown in if the political court intrigue, dialogue, and characters can hold their own. The result? I breezed through this book and debated whether to hold off with the sequel or if I should just wait until the final book gets released to binge both at once!
 
