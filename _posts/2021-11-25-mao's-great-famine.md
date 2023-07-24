@@ -3,7 +3,7 @@ title: "Mao's Great Famine Review"
 excerpt_separator: "<!--more-->"
 header:
   overlay_image: /assets/images/none.jpg
-  overlay_filter: linear-gradient(rgba(18, 129, 171, 1), rgba(14, 4, 2, 1))
+  overlay_filter: linear-gradient(rgba(175, 131, 22, 1), rgba(11, 6, 3, 1))
   show_overlay_excerpt: false
 categories:
   - History
