@@ -114,7 +114,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-  comments:
+comments:
   provider: "disqus"
   disqus:
     shortname: "anotherbookreview"
