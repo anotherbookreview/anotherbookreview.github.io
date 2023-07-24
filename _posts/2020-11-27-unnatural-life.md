@@ -1,9 +1,9 @@
 ---
-title: "An Unnatural Life Review"
+title: "Unnatural Life Review"
 excerpt_separator: "<!--more-->"
 header:
   overlay_image: /assets/images/none.jpg
-  overlay_filter: linear-gradient(rgba(59, 104, 101, 1), rgba(22, 31, 32, 1))
+  overlay_filter: linear-gradient(rgba(71, 133, 125, 1), rgba(24, 43, 41, 1))
   show_overlay_excerpt: false
 categories:
   - Science-Fiction
