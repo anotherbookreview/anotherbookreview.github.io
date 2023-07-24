@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Simon"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Yes, I have a day job. I have a thing for writing amateur book reviews throuhgout my reading journey."
+  bio    : "Yes, I have a day job. I just have a thing for writing amateur book reviews throughout my reading journey."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
