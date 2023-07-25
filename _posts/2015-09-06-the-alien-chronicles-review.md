@@ -7,7 +7,7 @@ header:
   show_overlay_excerpt: false
 categories:
   - Science-Fiction
-  - Space Travel
+  - Space-Travel
 ---
 ![alien-chronicles-cover](/assets/images/alien-chronicles.jpg){: .align-left}The Alien Chronicles is an anthology composed of various authors in the sci-fi genre. Needing a break from the traditional novels/series that’s well over 400-500+ pages, I thought this particular “Chronicles” series should provide some relief. There are a couple of other in the series but I decided to stick with the Aliens theme first just to get a feel for how it goes. If its to my liking, I’ll definitely be reading the other themed Chronicles series in the future.
 
