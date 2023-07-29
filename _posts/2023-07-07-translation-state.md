@@ -8,6 +8,7 @@ header:
 categories:
   - Science-Fiction
   - Space-Travel
+  - Did-Not-Finish
 ---
 ![translation-state-cover](/assets/images/translation-state.jpg){: .align-left}**DISCLAIMER:** I did not complete the book and have stopped at the 80% mark.
 {: .notice--danger}
