@@ -6,7 +6,7 @@ header:
   overlay_filter: linear-gradient(rgba(220, 224, 232, 1), rgba(179, 36, 60, 1))
   show_overlay_excerpt: false
 categories:
-  - historical-biography
+  - Historical-Biography
 ---
 ![the-spy-and-the-traitor-cover](/assets/images/spy-and-traitor.jpg){: .align-left}The Spy and the Traitor by Ben Macintyre details the extraordinary story of one of the most important Russian spy in history. There's always the saying that a person had single-handedly changed the course of history, and nowhere could that be more true than with the story of Oleg Gordievsky. As with so many other spy stories throughout history, this almost reads as a fiction novel at certain points in the story. It's just incredible and unbelievable at the same time. The amount of time and effort poured forth by both the author and Oleg himself to get this story out must have been a massive effort yet here we are with this book. 
 
