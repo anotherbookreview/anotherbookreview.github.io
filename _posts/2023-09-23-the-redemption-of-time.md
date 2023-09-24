@@ -15,6 +15,6 @@ categories:
 
 The book is divided into three parts, with Yun Tianming the focus of all three. The way I see it, the first part was easily the most digestible and easy to follow along with. I love how it explains things that may have been left unanswered in the original three books. We get to read about Tianming's torturous time with the Trisolarans over the centuries after his capture. The second part gets more hardcore and cranks things up a bit, with Tianming being who he eventually will become. The third and final part of the book is where stuff gets crazy and hectic. This is the part where you'll really need to exercise your mind and be prepared for some hard-core science-fiction thinking. 
 
->We are moved most not by the grand mysteries of the universe, but by the eotional personal truths that define our individual pasts. - Yun Tianming
+>We are moved most not by the grand mysteries of the universe, but by the emotional personal truths that define our individual pasts. - Yun Tianming
 
 I felt The Redemption of Time was a worthy read for all Three-Body Problem series lovers. Although I obviously couldn't remember all the events that took place in the series, reading this fan novel jogged back a lot of memories and, more importantly, made me remember why I believe this series is one of the best works of science fiction I've had the pleasure of ever reading. 
