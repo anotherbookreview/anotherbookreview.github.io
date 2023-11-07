@@ -1,0 +1,18 @@
+---
+title: "A Memory Called Empire Review"
+excerpt_separator: "<!--more-->"
+header:
+  overlay_image: /assets/images/none.jpg
+  overlay_filter: linear-gradient(rgba(234, 220, 142, 1), rgba(124, 132, 131, 1))
+  show_overlay_excerpt: false
+categories:
+  - Science-Fiction
+  - Did-Not-Finish
+---
+![memory-called-empire-cover](/assets/images/memory-called-empire.jpg){: .align-left}A Memory Called Empire by Arkady Martine is the first book of two in the Teixcalaan series. As a science fiction that won the 2020 Hugo Award for best novel, I obviously had high hopes for it. However, this is my second attempt at the book, with my first attempt having ended due to not being impressed at the beginning. But that was years ago, and I'm ready to give it a second chance. Well, unfortunately, I should have left this alone. At around the 75% mark or so, I called it quits. It's a shame, I know. 25% more and I could have finished it, but even at around the 50% mark, I found myself skipping all pages with useless internal dialogue than doing the actual reading of actual dialogue between the boring characters themselves. Right at that 75% mark is supposed to be where things "got interesting" but it was too little, too late. 
+
+First off, the characters. I'm sure someone more clever than myself can use nice and fancy words to sugarcoat this so it sounds nicer and more professional, but the truth is, they are extremely boring. Mahit and Three Seagrass are literally two of the same people even though they are from two extremely different planets with very different culture and upbringing! The amount of internal dialogue and even the observations Mahit has is difficult to get through as the book goes on. It was only tolerable in the beginning, up to the point where you'd realize that 90% of it is practically useless when it comes to her survivability in the City. The story itself is a bit simple underneath, but it feels as if the author tries to cover this up by applying layers upon layers of useless and mundane dialogue and useless observations. 
+
+Secondly, the world building, or lack of. How are we the readers supposed to get a feeling of grandeur for the "Jewel of the World" when your main characters are locked up indoors for the majority of the story? There is practically zero sense of adventure, grandeur and excitement. While Mahit is considered to be the outsider or "barbarian" on this planet, all the other characters talk and behave exactly like her! Save for their love of poetry, history and irritating names, there didn't seem much to distinguish between the citizens of Teixcalaan with Mahit herself. To summarize, the author gives us the 10,000-foot view of events rather than having the character go through them themselves. This is lazy world building and makes the main character more disconnected than ever to the world they are living in. 
+
+It's hard to see how this novel won the Hugo Award. In fact, the last couple of winners seems also a bit suspicious to me. A Memory Called Empire had a nice idea. The idea of being able to transplant your predecessor's history and knowledge into your brain to help guide you going forward presents a lot of different possibilities for a complex political storyline. Here, the politics is kindergarten level with a lot of dressing up and running around. For a planet and civilization centered on poetry, I hardly found any worthy quotable to highlight and save throughout my entire reading. This book is just a shame all around. 
