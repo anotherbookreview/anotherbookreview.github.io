@@ -15,7 +15,7 @@ categories:
 
 Many times, we have to do things we don't really want to but because of the need of money, we do them anyway. Thus, we find Joe Hennessy returning to Charleston after 20 years to become a defense lawyer for one of the city's most notorious criminal. Joe is someone most readers can root for. He's a family man, has a good moral compass, smart, can be intimidating when he wants to due to his height, and generally well known throughout his career as a prosecutor. The story setup in this first of the series is not bad. It definitely kept me turning the pages. We got our usual conversations with seemingly corrupt politicians with the usual barbs and threats thrown back and forth, shady investigators, issues that test a character's moral compass, religion and of course, courtroom drama.
 
->Business, politics, relationships--they all exist in the gray. They exist in a world wher egood isn't always respected, and bad isn't always frowned upon. Our lives, the lives of the rich, exist in that area where you always refused to go." Richard Longhouse
+>Business, politics, relationships--they all exist in the gray. They exist in a world wher egood isn't always respected, and bad isn't always frowned upon. Our lives, the lives of the rich, exist in that area where you always refused to go." - Richard Longhouse
 
 **May Contain Spoilers Below**
 
