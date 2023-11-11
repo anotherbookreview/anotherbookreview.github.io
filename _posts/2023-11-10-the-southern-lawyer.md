@@ -21,7 +21,7 @@ Many times, we have to do things we don't really want to but because of the need
 
 Unfortunately, I was not satisfied with the courtroom drama part and how it was presented. I'm obviously no lawyer, but this must have been the weakest prosecutor's case I've ever read or seen. The fact that Joe was able to poke so many holes in the witness cross-examination along with the lack of evidence on the prosecution team's part is staggering. If this was a real life trial, I'd be really surprised. I really hope the author makes things a lot tougher for Joe Hennessy in the later series because these here seems a bit too easy for him. With that being said, though, it still made for an exciting read and didn't dull things one bit. I'd just wish our superstar lawyer was challenged just a bit more. 
 
->"The absense of evidence is not evidence of its absense." - Joe Hennessy
+>"The absence of evidence is not evidence of its absence." - Joe Hennessy
 
 This is a nice series, and I'd like to see how it continues on for Joe Hennessy. I loved the author's injection of bit and pieces of details relating to South Carolina and Charleston. If anything, I can't wait to make my own Frogmore Stew! 
 
